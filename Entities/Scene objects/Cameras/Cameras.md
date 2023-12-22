@@ -1,6 +1,6 @@
 # Камери
 
-Камери - це видимі об’єкти [видимі об’єкти](https://www.coppeliarobotics.com/helpFiles/en/viewableObjects.htm), що означає, що ви можете дивитися крізь них і відображати те, на що вони дивляться. На вашій [сцені](https://www.coppeliarobotics.com/helpFiles/en/viewableObjects.htm) ви можете мати стільки камер, скільки потрібно, кожна з них пропонує різні [види](https://www.coppeliarobotics.com/helpFiles/en/viewableObjects.htm) сцени. Нижче показано приклад сцени, що містить кілька камер:
+Камери - це [видимі об’єкти](https://www.coppeliarobotics.com/helpFiles/en/viewableObjects.htm), що означає, що ви можете дивитися крізь них і відображати те, на що вони дивляться. На вашій [сцені](https://www.coppeliarobotics.com/helpFiles/en/viewableObjects.htm) ви можете мати стільки камер, скільки потрібно, кожна з них пропонує різні [види](https://www.coppeliarobotics.com/helpFiles/en/viewableObjects.htm) сцени. Нижче показано приклад сцени, що містить кілька камер:
 
 <p align="center">
 <img src="cameras2.jpg" />
